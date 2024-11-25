@@ -1,0 +1,5 @@
+string
+pattern
+functions
+oops
+generics
